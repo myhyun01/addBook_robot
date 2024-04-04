@@ -14,7 +14,7 @@
 ## 실행 방법
 - python code03.py
 
-## 다른 문의 사항
+## 다른 문의 사항은 여기로 연락주세요.
 - j18.001206@gmail.com
 
 addBook_robot
